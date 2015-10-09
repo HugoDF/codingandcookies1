@@ -2,3 +2,7 @@ body{
   background-color: #eee;
   font-family: 'Helvetica', sans-serif;
 }
+.cv-container{
+  max-width: 1024px;
+  margin: auto;
+}
