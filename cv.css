@@ -26,3 +26,10 @@ aside{
   width: 10%;
   float: left;
 }
+.main-feed{
+  width: 80%;
+  float: right;
+}
+.entry p{
+  margin-left: 10%;
+}
