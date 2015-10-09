@@ -8,10 +8,12 @@ body{
 }
 h1{
   font-size: 80px;
-  font-weight: 100;
   margin-bottom: 20px;
 }
 h2{
   font-size: 60px;
+}
+h1,h2{
   font-weight: 100;
+  text-align: center;
 }
