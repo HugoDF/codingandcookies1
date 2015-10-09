@@ -20,5 +20,9 @@ h1,h2{
 aside{
   display: inline-block;
   float: left;
-  max-width: 20%;
+  width: 20%;
+}
+.date{
+  width: 10%;
+  float: left;
 }
