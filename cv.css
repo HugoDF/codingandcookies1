@@ -42,6 +42,19 @@ h3, h4{
   width: 10%;
   float: left;
 }
+.location{
+  position: absolute;
+  top: 0;
+  right: 10px;
+  color: #999;
+}
+.entry{
+  position: relative;
+}
+.main-feed h3{
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
 .main-feed{
   width: 80%;
   float: right;
