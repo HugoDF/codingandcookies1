@@ -17,6 +17,13 @@ h1,h2{
   font-weight: 100;
   text-align: center;
 }
+a{
+  color: #666;
+  text-decoration: none;
+}
+a:hover, a:focus, a:active{
+  color: #000;
+}
 aside{
   display: inline-block;
   float: left;
