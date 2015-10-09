@@ -49,3 +49,11 @@ h3, h4{
 .entry p{
   margin-left: 10%;
 }
+table{
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+td, th{
+  border: solid 1px;
+  padding: 5px;
+}
