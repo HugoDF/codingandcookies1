@@ -27,7 +27,8 @@ a:hover, a:focus, a:active{
 aside{
   display: inline-block;
   float: left;
-  width: 20%;
+  width: 18%;
+  margin-right: 2%;
 }
 .date{
   width: 10%;
